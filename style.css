@@ -57,3 +57,7 @@ body {
     box-shadow: none;
     top: 6px; 
   } 
+
+  .fab {
+    color: white;
+  }
